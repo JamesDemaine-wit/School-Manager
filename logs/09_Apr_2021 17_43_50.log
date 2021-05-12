@@ -1,0 +1,7 @@
+Application started: 09_Apr_2021 17:43:50
+17:43:50: Hello world!
+17:43:50: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=DefinitelyNotNull☕,when=0,modifiers=] on SchoolManager.Driver@77847718
+	DefinitelyNotNull☕
+17:44:12: Created a new school: Waterford IT
+17:44:12: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Waterford IT,when=0,modifiers=] on SchoolManager.Driver@77847718
+	Waterford IT

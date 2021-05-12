@@ -1,0 +1,13 @@
+Application started: 09_Apr_2021 17:51:41
+17:51:41: Hello world!
+17:51:41: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=DefinitelyNotNull☕,when=0,modifiers=] on SchoolManager.Driver@77847718
+	DefinitelyNotNull☕
+17:51:50: Created a new school: School1
+17:51:50: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School1,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School1
+17:51:50: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School1,when=0,modifiers=] on SchoolManager.GUI.DriverGUI@42c05013
+	School1
+17:51:54: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=DefinitelyNotNull☕,when=0,modifiers=] on SchoolManager.Driver@77847718
+	DefinitelyNotNull☕
+17:53:04: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School1,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School1

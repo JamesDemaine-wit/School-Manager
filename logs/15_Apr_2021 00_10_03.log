@@ -1,0 +1,11 @@
+Application started: 15_Apr_2021 00:10:03
+00:10:04: Hello world!
+00:10:04: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School
+00:11:30: Employee: Manager: 
+	First Name: John
+	Second Name: Fitzgerald
+	PPS Number: 0123456XX
+	Salary Grade: 1
+	Employees: There are no employees in this Manager's department.
+Is a Manager, because casting succeeded. They will not be added to the combo box.

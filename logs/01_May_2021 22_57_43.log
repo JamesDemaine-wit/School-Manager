@@ -1,0 +1,4 @@
+Application started: 01_May_2021 22:57:43
+22:57:43: Hello world!
+22:57:43: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School

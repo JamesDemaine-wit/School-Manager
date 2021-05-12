@@ -1,0 +1,90 @@
+<object-stream>
+  <SchoolManager.Driver>
+    <empAPI>
+      <employees>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Manager>
+          <firstName>John</firstName>
+          <secondName>Fitzgerald</secondName>
+          <ppsNumber>0123456XX</ppsNumber>
+          <grade>1</grade>
+          <dept>
+            <SchoolManager.EmployeeManager.EmployeeTypes.Lecturer>
+              <firstName>Jane</firstName>
+              <secondName>Fitzgerald</secondName>
+              <ppsNumber>0123456XX</ppsNumber>
+              <level>1</level>
+            </SchoolManager.EmployeeManager.EmployeeTypes.Lecturer>
+            <SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker>
+              <firstName>Jack</firstName>
+              <secondName>Fitzgerald</secondName>
+              <ppsNumber>0123456XX</ppsNumber>
+              <grade>1</grade>
+            </SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker>
+          </dept>
+        </SchoolManager.EmployeeManager.EmployeeTypes.Manager>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Lecturer reference="../SchoolManager.EmployeeManager.EmployeeTypes.Manager/dept/SchoolManager.EmployeeManager.EmployeeTypes.Lecturer"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker reference="../SchoolManager.EmployeeManager.EmployeeTypes.Manager/dept/SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Manager>
+          <firstName>A</firstName>
+          <secondName>B</secondName>
+          <ppsNumber>0123456XX</ppsNumber>
+          <grade>1</grade>
+          <dept/>
+        </SchoolManager.EmployeeManager.EmployeeTypes.Manager>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Lecturer>
+          <firstName>C</firstName>
+          <secondName>D</secondName>
+          <ppsNumber>0123456XX</ppsNumber>
+          <level>1</level>
+        </SchoolManager.EmployeeManager.EmployeeTypes.Lecturer>
+        <SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker>
+          <firstName>E</firstName>
+          <secondName>F</secondName>
+          <ppsNumber>0123456XX</ppsNumber>
+          <grade>1</grade>
+        </SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker>
+      </employees>
+      <previousEmployees>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Manager reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.Manager"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Lecturer reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.Manager/dept/SchoolManager.EmployeeManager.EmployeeTypes.Lecturer"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.Manager/dept/SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Manager reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.Manager[2]"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.Lecturer reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.Lecturer[2]"/>
+        <SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker reference="../../employees/SchoolManager.EmployeeManager.EmployeeTypes.AdminWorker[2]"/>
+      </previousEmployees>
+      <schoolUpdater serialization="custom">
+        <javax.swing.Timer>
+          <default>
+            <coalesce>true</coalesce>
+            <delay>5</delay>
+            <initialDelay>5</initialDelay>
+            <repeats>true</repeats>
+            <listenerList serialization="custom">
+              <javax.swing.event.EventListenerList>
+                <default/>
+                <null/>
+              </javax.swing.event.EventListenerList>
+            </listenerList>
+          </default>
+        </javax.swing.Timer>
+      </schoolUpdater>
+      <driver reference="../.."/>
+    </empAPI>
+    <school>
+      <name>School</name>
+      <departments>
+        <entry>
+          <string>Science And Computing</string>
+          <SchoolManager.EmployeeManager.EmployeeTypes.Manager reference="../../../../empAPI/employees/SchoolManager.EmployeeManager.EmployeeTypes.Manager"/>
+        </entry>
+      </departments>
+      <driver reference="../.."/>
+    </school>
+    <schools>
+      <entry>
+        <SchoolManager.School reference="../../../school"/>
+        <SchoolManager.EmployeeManager.EmployeeAPI reference="../../../empAPI"/>
+      </entry>
+    </schools>
+  </SchoolManager.Driver>
+</object-stream>

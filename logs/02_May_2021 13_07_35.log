@@ -1,0 +1,54 @@
+Application started: 02_May_2021 13:07:35
+13:07:35: Hello world!
+13:07:35: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@43bc63a3
+	School
+13:07:35: Hello world!
+13:07:35: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@770d3326
+	School
+13:07:37: Hello world!
+13:07:37: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@247d8ae
+	School
+13:07:37: Hello world!
+13:07:37: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@932bc4a
+	School
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Warning: Adding Manager: 
+	First Name: Fiona
+	Second Name: Power
+	PPS Number: 1234567aa
+	Salary Grade: 2
+to
+Manager: 
+	First Name: Big
+	Second Name: Boss
+	PPS Number: 1234567aa
+	Salary Grade: 2
+	Employees: 
+	Manager: 
+	First Name: Fiona
+	Second Name: Power
+	PPS Number: 1234567aa
+	Salary Grade: 2
+	Lecturer: 
+	First Name: Siobhan
+	Second Name: Drohan
+	PPS Number: 1234567aa
+	Salary Level: 3
+	Lecturer: 
+	First Name: Mairead
+	Second Name: Meagher
+	PPS Number: 1234567bb
+	Salary Level: 2
+The employee is already in the Manager's Department, they are now duplicated.
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!
+13:07:37: Hello world!

@@ -1,0 +1,4 @@
+Application started: 07_Apr_2021 21:53:28
+21:53:28: Hello world!
+21:53:28: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=No School Loaded,when=0,modifiers=] on SchoolManager.Driver@77847718
+	No School Loaded

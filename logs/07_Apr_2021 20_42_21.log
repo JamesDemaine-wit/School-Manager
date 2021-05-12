@@ -1,0 +1,8 @@
+Application started: 07_Apr_2021 20:42:21
+20:42:21: Hello world!
+20:42:33: Created a new school: School2
+20:42:39: SchoolManager.Driver@554e48e0
+20:42:39: Error when changing working school.
+Are there schools with duplicate names?
+Is the save file corrupted?
+20:42:54: Saved as file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\SchoolTesting.xml

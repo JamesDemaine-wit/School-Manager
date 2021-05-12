@@ -1,0 +1,9 @@
+Application started: 01_May_2021 23:57:44
+23:57:44: Hello world!
+23:57:44: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School
+23:57:57: Manager has no dept, unsure if they are really a manager
+23:57:57: Removed a Manager's employee, because they no longer exist in the EmployeeAPI
+00:04:07: Saved as file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\sss.xml
+00:04:18: Saved as file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\sss.xml
+00:04:27: Loaded file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\sss.xml

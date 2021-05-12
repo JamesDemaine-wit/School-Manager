@@ -1,0 +1,32 @@
+Application started: 02_May_2021 13:02:44
+13:02:44: Hello world!
+13:02:44: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School
+13:02:49: Loaded file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\save2.xml
+13:02:54: Employee: Manager: 
+	First Name: John
+	Second Name: Fitzgerald
+	PPS Number: 0123456XX
+	Salary Grade: 1
+	Employees: There are no employees in this Manager's department.
+Is a Manager, because casting succeeded. They will not be added to the combo box.
+13:03:05: Employee: Manager: 
+	First Name: John
+	Second Name: Fitzgerald
+	PPS Number: 0123456XX
+	Salary Grade: 1
+	Employees: There are no employees in this Manager's department.
+Is a Manager, because casting succeeded. They will not be added to the combo box.
+13:03:08: Employee: Manager: 
+	First Name: John
+	Second Name: Fitzgerald
+	PPS Number: 0123456XX
+	Salary Grade: 1
+	Employees: 
+	Lecturer: 
+	First Name: Jane
+	Second Name: Fitzgerald
+	PPS Number: 0123456XX
+	Salary Level: 1
+Is a Manager, because casting succeeded. They will not be added to the combo box.
+13:03:13: Saved as file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\save2.xml

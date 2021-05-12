@@ -1,0 +1,5 @@
+Application started: 02_May_2021 13:13:03
+13:13:03: Hello world!
+13:13:03: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@b7c4869
+	School
+13:13:13: Loaded file: E:\OneDrive\dev\assignment2\jamesdemaine\saves\save2.xml

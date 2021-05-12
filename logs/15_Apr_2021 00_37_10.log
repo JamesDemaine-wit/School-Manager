@@ -1,0 +1,5 @@
+Application started: 15_Apr_2021 00:37:10
+00:37:10: Hello world!
+00:37:10: java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=School,when=0,modifiers=] on SchoolManager.Driver@77847718
+	School
+00:37:14: [com.thoughtworks.xstream.core.util.CustomObjectInputStream.available(CustomObjectInputStream.java:273), SchoolManager.Utilities.readObjectSave(Utilities.java:76), SchoolManager.GUI.DriverGUI.load(DriverGUI.java:464), SchoolManager.GUI.DriverGUI.firstRunSoLoadSave(DriverGUI.java:112), SchoolManager.GUI.DriverGUI.<init>(DriverGUI.java:81), SchoolManager.Main.main(Main.java:26)]
